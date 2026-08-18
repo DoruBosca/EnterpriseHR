@@ -1,0 +1,6 @@
+{
+  "name": "HR Process & Systems Architecture Dashboard",
+  "description": "Interactive visual architecture and process analytics dashboard mapping enterprise HR platforms across the Hire-to-Transition employee lifecycle.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
