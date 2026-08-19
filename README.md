@@ -7,7 +7,6 @@ An interactive enterprise architecture and workforce intelligence platform that 
 The HR Process & Systems Architecture Dashboard provides a comprehensive view of the enterprise HR landscape, spanning employee journeys, HR applications, integration architecture, operational workflows, and workforce intelligence.
 
 Designed for:
-
 Enterprise Architects
 HR Transformation Leaders
 HR Technology Teams
@@ -19,7 +18,6 @@ Enterprise Platform Owners
 The platform serves as both an architecture visualization tool and an operational HR intelligence cockpit, enabling stakeholders to understand how HR processes, systems, and workforce data interact across the organization.
 
 🏗 Architecture Overview
-
 The dashboard models the complete enterprise HR ecosystem through a layered architecture:
 
                     Employee
@@ -211,7 +209,6 @@ Organizational onboarding
 Leadership Promotion Journey
 
 Tracks:
-
 Role transitions
 Competency validation
 Development pathways
@@ -219,7 +216,6 @@ Organization updates
 Compliant Security Offboarding
 
 Includes:
-
 Access revocation
 Asset recovery
 Knowledge transfer
@@ -239,7 +235,6 @@ Service-to-service communication tracing
 🤖 AI HR Systems & Process Advisor
 
 Integrated AI-powered advisory capability built with Gemini 3.7 Flash on the server side.
-
 Use Cases
 Architecture Advisory
 Application rationalization
@@ -266,31 +261,19 @@ What integration dependencies impact employee lifecycle SLAs?
 Recommend architectural improvements for scaling onboarding globally.
 
 🎨 Dashboard Highlights
-
 ✅ Interactive enterprise architecture
-
 ✅ HR lifecycle intelligence
-
 ✅ Workforce analytics
-
 ✅ Systems dependency mapping
-
 ✅ Process simulation
-
 ✅ Integration observability
-
 ✅ SLA monitoring
-
 ✅ AI-powered advisory
-
 ✅ Executive dashboards
-
 ✅ Technical architecture transparency
 
 📈 Business Value
-
 The platform enables organizations to:
-
 Improve employee experience
 Reduce onboarding lead times
 Increase process automation
@@ -299,10 +282,10 @@ Strengthen governance
 Optimize HR technology investments
 Accelerate HR transformation initiatives
 Enable data-driven workforce decisions
+
 🔮 Future Roadmap
 
 Planned enhancements include:
-
 Process Mining Integration
 Digital Twin for Workforce Architecture
 Predictive Attrition Analytics
@@ -311,10 +294,9 @@ Real-Time Event Streaming Dashboards
 Enterprise Knowledge Graph Integration
 AI-Based Workforce Planning
 HR Copilot Multi-Agent Framework
-📄 License
 
+📄 License
 This project is intended for educational, enterprise architecture, HR transformation, and workforce intelligence demonstration purposes.
 
 ⭐ Vision
-
 Transforming HR from a collection of disconnected processes into a connected, observable, intelligence-driven enterprise platform that delivers measurable business and employee value across the entire workforce lifecycle.
