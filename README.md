@@ -6,6 +6,8 @@ An interactive enterprise architecture and workforce intelligence platform that 
 
 The HR Process & Systems Architecture Dashboard provides a comprehensive view of the enterprise HR landscape, spanning employee journeys, HR applications, integration architecture, operational workflows, and workforce intelligence.
 
+<img width="1119" height="859" alt="image" src="https://github.com/user-attachments/assets/f72cb9f7-76d1-418a-b30c-8ec2c5836665" />
+
 Designed for:
 Enterprise Architects
 HR Transformation Leaders
