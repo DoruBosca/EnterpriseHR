@@ -48,7 +48,7 @@ All employee interactions, transactions, learning activities, identity events, s
 
 A fully interactive enterprise architecture visualization that models HR systems, data flows, and lifecycle dependencies.
 
-Capabilities
+Capabilities:
 Dynamic architecture navigation
 Animated system interactions
 Real-time process flow visualization
@@ -58,7 +58,6 @@ Architecture dependency mapping
 Technical Indicators
 
 The architecture visualization includes:
-
 REST APIs
 SCIM provisioning
 OpenID Connect (OIDC)
