@@ -63,14 +63,9 @@ export const Navbar: React.FC<NavbarProps> = ({
               <Network className="w-5 h-5 text-white" />
             </div>
             <div>
-              <div className="flex items-center space-x-2">
-                <h1 className="font-bold text-lg text-white tracking-tight">
-                  HR Process & Architecture
-                </h1>
-                <span className="px-2 py-0.5 text-xs font-semibold rounded-full bg-blue-500/10 text-blue-400 border border-blue-500/30">
-                  Enterprise Blueprint
-                </span>
-              </div>
+              <h1 className="font-bold text-lg text-white tracking-tight">
+                HR Process & Architecture
+              </h1>
               <p className="text-xs text-slate-400 font-medium">
                 Hire → Onboard → Develop → Retain → Transition Lifecycle Map
               </p>

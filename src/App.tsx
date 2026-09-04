@@ -140,8 +140,7 @@ export default function App() {
 
       {/* Enterprise Footer */}
       <footer className="mt-auto border-t border-slate-800/80 bg-slate-950 py-4 text-center text-xs text-slate-500">
-        <div className="max-w-7xl mx-auto px-4 flex flex-col sm:flex-row items-center justify-between gap-2">
-          <span>Enterprise HR Process & Architecture Model • Bosch HR Architecture Benchmark</span>
+        <div className="max-w-7xl mx-auto px-4 flex flex-col sm:flex-row items-center justify-center gap-2">
           <span>Hire → Onboard → Develop → Retain → Transition (99.96% SLA)</span>
         </div>
       </footer>
